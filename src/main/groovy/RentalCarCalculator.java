@@ -23,7 +23,7 @@ public class RentalCarCalculator {
         System.out.print("Do you want road assistance?: ");
         boolean roadSideAssistance;
 
-        System.out.print("")
+        System.out.print("Enter")
         int age;
 
 
